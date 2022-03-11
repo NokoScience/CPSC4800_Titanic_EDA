@@ -44,7 +44,7 @@ The repo has four folders, in which you will find:
 
 * [src](https://github.com/NokoScience/CPSC4800_Titanic_EDA/tree/main/src): the Jupyter Notebook with the source code of the EDA.
 * [data](https://github.com/NokoScience/CPSC4800_Titanic_EDA/tree/main/data): the Titanic dataset used in the project.
-* [result](https://github.com/NokoScience/CPSC4800_Titanic_EDA/tree/main/result): the different plots and a written report with the results.
+* [result](https://github.com/NokoScience/CPSC4800_Titanic_EDA/tree/main/result): the different plots and a written report with the findings.
 * [doc](https://github.com/NokoScience/CPSC4800_Titanic_EDA/tree/main/doc): further documentation of the project. At the moment of writing, only a copy of this README file is in it.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
