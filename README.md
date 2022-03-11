@@ -1,4 +1,4 @@
-# TITANIC EXPLORATORY DATA ANALYSIS
+# Titanic Exploratory Data Analysis
 
 ## About the Project
 
@@ -52,4 +52,5 @@ The repo has four folders, in which you will find:
 ## Contact
 
 Deyvit Leonardo Hernandez Vargas - deyvithernandez@gmail.com
+
 Project Link: [https://github.com/NokoScience/CPSC4800_Titanic_EDA.git](https://github.com/NokoScience/CPSC4800_Titanic_EDA.git)
