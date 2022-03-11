@@ -42,10 +42,10 @@ git clone https://github.com/NokoScience/CPSC4800_Titanic_EDA.git
 
 The repo has four folders, in which you will find:
 
-* [src](https://github.com/NokoScience/CPSC4800_Titanic_EDA/tree/master/src): the Jupyter Notebooks with the source code for the EDA.
-* [data](https://github.com/NokoScience/CPSC4800_Titanic_EDA/tree/master/data): the Titanic dataset used i nthe project.
-* [result](https://github.com/NokoScience/CPSC4800_Titanic_EDA/tree/master/result): the different plots and a written report with the findings.
-* [doc](https://github.com/NokoScience/CPSC4800_Titanic_EDA/tree/master/doc): further documentation of the project. At the moment of writing, this folder is empty.
+* [src](https://github.com/NokoScience/CPSC4800_Titanic_EDA/tree/main/src): the Jupyter Notebooks with the source code for the EDA.
+* [data](https://github.com/NokoScience/CPSC4800_Titanic_EDA/tree/main/data): the Titanic dataset used i nthe project.
+* [result](https://github.com/NokoScience/CPSC4800_Titanic_EDA/tree/main/result): the different plots and a written report with the findings.
+* [doc](https://github.com/NokoScience/CPSC4800_Titanic_EDA/tree/main/doc): further documentation of the project. At the moment of writing, this folder is empty.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
